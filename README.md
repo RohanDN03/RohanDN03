@@ -1,15 +1,18 @@
 <div align="center">
 
-# Hi 👋, I'm Rohan Nikam
+# Hi there, I'm Rohan Nikam 👋
 
-### 💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🎓 Computer Science Student at IIT Dharwad
+### Full Stack Developer | AI/ML Enthusiast | Computer Science Student @ IIT Dharwad
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/rohan-nikam-037391318/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/RohanDN03">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:cs23bt064@iitdh.ac.in">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -17,112 +20,104 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">🚀 Proof of Work</h2>
 
-I'm a Computer Science student at **IIT Dharwad** who enjoys building products that solve real-world problems.
+<table>
+<tr>
+<td width="55%">
 
-I love working on full-stack web development, exploring AI/ML, and continuously learning new technologies. Whether it's creating collaborative applications, financial dashboards, or deep learning projects, I enjoy turning ideas into working software.
+<a href="https://real-world-canvas-excelidraw-fronte.vercel.app/" target="_blank">
+  <img
+    src="https://github.com/user-attachments/assets/e9309368-576a-463f-b0a6-0917b93cf391"
+    alt="RealWorldCanvas"
+    width="100%"
+  />
+</a>
 
-- 🎓 B.Tech in Computer Science, IIT Dharwad
-- 💼 Former Software Development Engineer Intern at **Brainwave Matrix Solutions**
-- 🧠 Former **Chegg Computer Science Expert**
-- 🌱 Currently exploring scalable systems, AI applications, and cloud technologies
-- 🚀 Passionate about clean code, problem solving, and building impactful products
+</td>
 
----
+<td width="45%">
 
-## 🛠️ Technologies I Work With
+## 🎨 RealWorldCanvas
 
-**Languages**
-- C++
-- JavaScript
-- TypeScript
-- Python
-- Java
-- C
+### Real-time Collaborative Whiteboard
 
-**Frontend**
-- React.js
-- Next.js
-- HTML
-- CSS
-- Tailwind CSS
+A collaborative whiteboard application where multiple users can draw, chat, and collaborate in real time using WebSockets.
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- WebSockets
+**Tech Stack**
 
-**Databases**
-- MongoDB
-- PostgreSQL
-- MySQL
-- Redis
+`Next.js` `React` `TypeScript` `Express.js` `PostgreSQL` `Prisma` `WebSocket`
 
-**AI / ML**
-- PyTorch
-- OpenCV
-- NumPy
-- Pandas
+</td>
+</tr>
 
-**Tools**
-- Git
-- GitHub
-- Docker
-- Linux
-- Postman
+<tr>
+<td>
+<a href="https://real-world-canvas-excelidraw-fronte.vercel.app/" target="_blank">
+<img src="<img width="1055" height="564" alt="Screenshot 2026-06-15 at 8 22 07 PM" src="https://github.com/user-attachments/assets/412807f5-6a55-44d7-b4a5-7d04bf10e135" />
+"/>
+</a>
 
----
+</td>
 
-## 🚀 Featured Projects
+<td>
 
-### 🎨 RealWorldCanvas
-A real-time collaborative whiteboard where multiple users can draw, chat, and work together seamlessly.
+## 💰 Money Tracker
 
-### 💰 Money Tracker
-An expense management application that helps users monitor spending and visualize financial data.
+### Personal Finance Management
 
-### 📊 Finance Dashboard
-An interactive dashboard built to present financial insights with a clean and modern interface.
+Track income and expenses, visualize spending patterns, and manage your finances through an intuitive dashboard.
 
-### 🌧️ Image Deraining using UNet-GAN
-A deep learning project focused on removing rain streaks from images using a UNet-GAN architecture.
+**Tech Stack**
 
-### 💬 Chat Application
-A real-time messaging platform built using modern web technologies.
+`React` `Node.js` `MongoDB` `Express` `Chart.js`
 
----
+</td>
+</tr>
 
-## 📚 What I'm Currently Learning
+<tr>
+<td>
+<a href="[https://money-tracker-ashen-eight.vercel.app/]" target="_blank">
+<img src="<img width="1055" height="564" alt="Screenshot 2026-06-15 at 8 22 07 PM" src="https://github.com/user-attachments/assets/fe0193a7-6e4e-42d2-a04a-9f1300fb08eb" />
 
-- System Design
-- DevOps Fundamentals
-- Kubernetes & Docker
-- Cloud Deployment
-- Advanced AI Applications
+
+</a>
+
+</td>
+
+<td>
+
+
+## 🌧️ Image Deraining Using UNet-GAN
+
+### Deep Learning Project
+
+An AI model that removes rain streaks from images using a UNet-GAN architecture for improved visual quality.
+
+**Tech Stack**
+
+`Python` `PyTorch` `UNet` `GAN` `OpenCV`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanDN03&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDN03&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,tailwind,docker,git,github,linux"/>
 
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/rohan-nikam-037391318/
-- 💻 GitHub: https://github.com/RohanDN03
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 😊
+### ⭐ Thanks for visiting my profile!
 
-I'm always excited to collaborate on interesting projects, learn new technologies, and connect with fellow developers.
+I'm always excited to learn, build, and collaborate on meaningful projects.
 
 </div>
