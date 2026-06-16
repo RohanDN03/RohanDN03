@@ -76,8 +76,37 @@ Track income and expenses, visualize spending patterns, and manage your finances
 
 <tr>
 <td>
-<a href="https://money-tracker-ashen-eight.vercel.app/" target="_blank">
-<img src="<img width="1055" height="564" alt="Screenshot 2026-06-15 at 8 22 07 PM" src="https://github.com/user-attachments/assets/fe0193a7-6e4e-42d2-a04a-9f1300fb08eb" />
+<a href="https://blot-clone-kappa.vercel.app/" target="_blank">
+<img width="1518" height="890" alt="Screenshot 2026-06-16 at 8 11 51 AM" src="https://github.com/user-attachments/assets/4b610e88-d685-4df2-983f-1cc9e030222c" />
+
+</a>
+
+</td>
+
+<td>
+
+## DevAI – AI-Powered Development Assistant
+
+### PAI-powered platform for developers
+
+An intelligent development assistant built with Next.js that enables secure
+
+      workspace management, authentication, AI-driven workflows, and token-based
+
+      premium features with seamless payment integration.
+
+**Tech Stack**
+
+`Next.js` `React` `TypeScript` `Tailwind css` `Convex`
+
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/RohanDN03/Image-Deraining-Using-UNet-GAN" target="_blank">
+<img width="1055" height="564" alt="Screenshot 2026-06-15 at 9 08 55 PM" src="https://github.com/user-attachments/assets/e9d93662-a519-4426-9a4c-e70e588782e7" />
+
 
 
 </a>
@@ -92,6 +121,39 @@ Track income and expenses, visualize spending patterns, and manage your finances
 ### Deep Learning Project
 
 An AI model that removes rain streaks from images using a UNet-GAN architecture for improved visual quality.
+
+**Tech Stack**
+
+`Python` `PyTorch` `UNet` `GAN` `OpenCV`
+
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/RohanDN03/Sri_Lankan_News_Articles" target="_blank">
+<img width="627" height="600" alt="Screenshot 2026-06-16 at 8 25 47 AM" src="https://github.com/user-attachments/assets/6a2e9c70-43b3-4297-bec4-abf7d9610d34" />
+
+
+</a>
+
+</td>
+
+<td>
+
+
+## Sri Lankan News Articles
+
+### AI/ML Dataset Preparation & News Analytics
+ 
+  Built an end-to-end data pipeline to collect, clean, and organize Sri Lankan
+
+  news articles into a high-quality dataset for AI and machine learning
+
+  applications. The project focuses on preparing structured data for tasks
+
+  such as text classification, sentiment analysis, topic modeling, and other
+
+  intelligent language processing workflows.
 
 **Tech Stack**
 
