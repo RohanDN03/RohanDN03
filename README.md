@@ -53,9 +53,8 @@ A collaborative whiteboard application where multiple users can draw, chat, and 
 
 <tr>
 <td>
-<a href="https://real-world-canvas-excelidraw-fronte.vercel.app/" target="_blank">
-<img src="<img width="1055" height="564" alt="Screenshot 2026-06-15 at 8 22 07 PM" src="https://github.com/user-attachments/assets/412807f5-6a55-44d7-b4a5-7d04bf10e135" />
-"/>
+<a href="https://money-tracker-ashen-eight.vercel.app/" target="_blank">
+<img width="1055" height="564" alt="Screenshot 2026-06-15 at 8 22 07 PM" src="https://github.com/user-attachments/assets/1eb669fd-aa73-49e3-921b-8568d9303693" />
 </a>
 
 </td>
@@ -77,7 +76,7 @@ Track income and expenses, visualize spending patterns, and manage your finances
 
 <tr>
 <td>
-<a href="[https://money-tracker-ashen-eight.vercel.app/]" target="_blank">
+<a href="https://money-tracker-ashen-eight.vercel.app/" target="_blank">
 <img src="<img width="1055" height="564" alt="Screenshot 2026-06-15 at 8 22 07 PM" src="https://github.com/user-attachments/assets/fe0193a7-6e4e-42d2-a04a-9f1300fb08eb" />
 
 
