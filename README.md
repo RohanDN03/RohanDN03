@@ -91,9 +91,9 @@ Track income and expenses, visualize spending patterns, and manage your finances
 
 An intelligent development assistant built with Next.js that enables secure
 
-      workspace management, authentication, AI-driven workflows, and token-based
+workspace management, authentication, AI-driven workflows, and token-based
 
-      premium features with seamless payment integration.
+premium features with seamless payment integration.
 
 **Tech Stack**
 
