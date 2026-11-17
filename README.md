@@ -139,6 +139,32 @@ An AI model that removes rain streaks from images using a UNet-GAN architecture 
 </td>
 
 <td>
+  
+## UAV Task Offloading with ns-3.49 + DQN/PPO
+
+### Deep Reinforcement Learning Project
+
+An intelligent UAV task-offloading framework that optimizes task execution across user UAVs, edge UAVs, and a cloud server using Deep Reinforcement Learning to balance latency, energy consumption, and edge-server workload.
+
+
+**Tech Stack**
+
+`C++` `Python` `ns-3.49` `PyTorch` `DQN` `PPO` `Reinforcement Learning`
+
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/RohanDN03/Intelligent-Edge-Server-Selection-and-Task-Offloading..git" target="_blank">
+<img width="600" height="300" alt="Screenshot 2026-11-17 at 12 22 35 PM" src="https://github.com/user-attachments/assets/2713a692-cd01-431e-b9c3-add25a45b2c2" />
+
+
+
+</a>
+
+</td>
+
+<td>
 
 
 ## Sri Lankan News Articles
