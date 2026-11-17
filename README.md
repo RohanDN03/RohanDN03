@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Rohan Nikam 👋
+# Hi there, I'm Rohan Nikam 
 
 ### Full Stack Developer | AI/ML Enthusiast | Computer Science Student @ IIT Dharwad
 
@@ -20,7 +20,7 @@
 
 ---
 
-<h2 align="center">🚀 Proof of Work</h2>
+<h2 align="center"> Proof of Work</h2>
 
 <table>
 <tr>
@@ -38,7 +38,7 @@
 
 <td width="45%">
 
-## 🎨 RealWorldCanvas
+## RealWorldCanvas
 
 ### Real-time Collaborative Whiteboard
 
@@ -54,14 +54,14 @@ A collaborative whiteboard application where multiple users can draw, chat, and 
 <tr>
 <td>
 <a href="https://money-tracker-ashen-eight.vercel.app/" target="_blank">
-<img width="1055" height="564" alt="Screenshot 2026-06-15 at 8 22 07 PM" src="https://github.com/user-attachments/assets/1eb669fd-aa73-49e3-921b-8568d9303693" />
+<img width="500" height="250" alt="Screenshot 2026-06-15 at 8 22 07 PM" src="https://github.com/user-attachments/assets/1eb669fd-aa73-49e3-921b-8568d9303693" />
 </a>
 
 </td>
 
 <td>
 
-## 💰 Money Tracker
+## Money Tracker
 
 ### Personal Finance Management
 
@@ -77,7 +77,7 @@ Track income and expenses, visualize spending patterns, and manage your finances
 <tr>
 <td>
 <a href="https://blot-clone-kappa.vercel.app/" target="_blank">
-<img width="1518" height="890" alt="Screenshot 2026-06-16 at 8 11 51 AM" src="https://github.com/user-attachments/assets/4b610e88-d685-4df2-983f-1cc9e030222c" />
+<img width="500" height="250" alt="Screenshot 2026-06-16 at 8 11 51 AM" src="https://github.com/user-attachments/assets/4b610e88-d685-4df2-983f-1cc9e030222c" />
 
 </a>
 
@@ -105,7 +105,7 @@ premium features with seamless payment integration.
 <tr>
 <td>
 <a href="https://github.com/RohanDN03/Image-Deraining-Using-UNet-GAN" target="_blank">
-<img width="1055" height="564" alt="Screenshot 2026-06-15 at 9 08 55 PM" src="https://github.com/user-attachments/assets/e9d93662-a519-4426-9a4c-e70e588782e7" />
+<img width="500" height="300" alt="Screenshot 2026-06-15 at 9 08 55 PM" src="https://github.com/user-attachments/assets/e9d93662-a519-4426-9a4c-e70e588782e7" />
 
 
 
@@ -115,8 +115,7 @@ premium features with seamless payment integration.
 
 <td>
 
-
-## 🌧️ Image Deraining Using UNet-GAN
+## Image Deraining Using UNet-GAN
 
 ### Deep Learning Project
 
@@ -128,19 +127,18 @@ An AI model that removes rain streaks from images using a UNet-GAN architecture 
 
 </td>
 </tr>
+
 <tr>
 <td>
-<a href="https://github.com/RohanDN03/Sri_Lankan_News_Articles" target="_blank">
-<img width="627" height="600" alt="Screenshot 2026-06-16 at 8 25 47 AM" src="https://github.com/user-attachments/assets/6a2e9c70-43b3-4297-bec4-abf7d9610d34" />
-
-
+<a href="https://github.com/RohanDN03/Intelligent-Edge-Server-Selection-and-Task-Offloading..git" target="_blank">
+<img width="500" height="200" alt="Screenshot 2026-11-17 at 12 22 35 PM" src="https://github.com/user-attachments/assets/95f2db83-9658-4d87-b110-96a25e5d164d" />
 </a>
 
 </td>
 
 <td>
-  
-## UAV Task Offloading with ns-3.49 + DQN/PPO
+
+##  UAV Task Offloading with ns-3.49 + DQN/PPO
 
 ### Deep Reinforcement Learning Project
 
@@ -155,31 +153,19 @@ An intelligent UAV task-offloading framework that optimizes task execution acros
 </tr>
 <tr>
 <td>
-<a href="https://github.com/RohanDN03/Intelligent-Edge-Server-Selection-and-Task-Offloading..git" target="_blank">
-<img width="600" height="300" alt="Screenshot 2026-11-17 at 12 22 35 PM" src="https://github.com/user-attachments/assets/2713a692-cd01-431e-b9c3-add25a45b2c2" />
-
-
-
+<a href="https://github.com/RohanDN03/Sri_Lankan_News_Articles.git" target="_blank">
+    <img width="500" height="300" alt="Screenshot 2026-11-17 at 12 38 52 PM" src="https://github.com/user-attachments/assets/6cbd85c4-cff4-4cc3-8d06-f7a6fa782096" />
 </a>
 
 </td>
 
 <td>
 
-
 ## Sri Lankan News Articles
 
 ### AI/ML Dataset Preparation & News Analytics
  
-  Built an end-to-end data pipeline to collect, clean, and organize Sri Lankan
-
-  news articles into a high-quality dataset for AI and machine learning
-
-  applications. The project focuses on preparing structured data for tasks
-
-  such as text classification, sentiment analysis, topic modeling, and other
-
-  intelligent language processing workflows.
+  Built an end-to-end data pipeline to collect, clean, and organize Sri Lankan news articles into a high-quality dataset for AI and machine learning applications. The project focuses on     preparing structured data for    tasks such as text classification, sentiment analysis, topic modeling, and other intelligent language processing workflows.
 
 **Tech Stack**
 
